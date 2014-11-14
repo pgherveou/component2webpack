@@ -1,0 +1,20 @@
+{
+  "name": "component2webpack",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "bin": {
+    "component2webpack": "./bin/index.js"
+  },
+  "author": "Pierre Herveou",
+  "license": "ISC",
+  "dependencies": {
+    "co": "^3.1.0",
+    "co-exec": "^1.1.0",
+    "component-flatten": "^1.0.1",
+    "component-resolver": "^1.2.7",
+    "debug": "^2.1.0",
+    "duo-main": "0.0.3",
+    "gnode": "^0.1.0"
+  }
+}
